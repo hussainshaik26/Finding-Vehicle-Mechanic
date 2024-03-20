@@ -1,0 +1,12 @@
+.bgimage{
+  position:relative;
+  width: 100%;
+}
+.text{
+  position: absolute;
+  top: 350px;
+  color: white;
+}
+.mainhead{
+  font-size: 500%;
+}

@@ -1,0 +1,11 @@
+.footer{
+    cursor: pointer;
+    width: 10px;
+    border-radius: 50%;
+}
+.name{
+    cursor: pointer;
+}
+.name:hover{
+    color:red;
+}
